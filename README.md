@@ -9,13 +9,14 @@ The project is developed within the framework of the **SDG Nexus (climate–land
 
 The repository consolidates **data extraction, preprocessing, hazard construction, and exposure modeling** using custom Python code fully compatible with **CLIMADA**.
 
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/b4ddb6c0-fc44-4865-b91d-865a8a1ec718" />
+
 ---
 
 ## Objectives
 - Implement a **standardized CLIMADA workflow** for climate risk assessment in Colombia  
 - Analyze **spatial heterogeneity and multiscale climate variability**  
 - Integrate **land-use and territorial exposure** into climate risk models  
-- Prepare the groundwork for **deep learning–based extensions** to enhance multiscale representation  
 
 ---
 
@@ -45,16 +46,6 @@ The project follows the **CLIMADA gold-standard workflow**:
 - ✔ Hazard and exposure construction in CLIMADA  
 - ✔ Multiscale spatial analysis  
 - 🔄 Ongoing optimization and validation  
-- 🔜 Integration of deep learning models for multiscale climate risk modeling  
-
----
-
-## Future Development
-Planned extensions include:
-- Deep learning–based climate hazard modeling  
-- Multiscale neural representations of climate and land-use interactions  
-- Hybrid **physical–data-driven** risk assessment  
-- Improved computational scalability for large regions  
 
 ---
 
