@@ -69,7 +69,7 @@ Planned extensions include:
 ## Author
 **William Alfonso Leon Rueda**  
 Universidad Nacional de Colombia  
-*SDG Nexus – Climate Risk and Spatial Modeling*
+*SDG Nexus network – Climate Risk and Spatial Modeling*
 
 ---
 
